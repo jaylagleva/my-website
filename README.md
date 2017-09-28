@@ -1,5 +1,5 @@
 # my-website
 
-this is a sample website
-
 edit readme
+
+This is a sample website
